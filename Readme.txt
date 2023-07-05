@@ -1,0 +1,1 @@
+This simulation and solution with mutex and semaphores help the patients will no longer wait for covid-test.
